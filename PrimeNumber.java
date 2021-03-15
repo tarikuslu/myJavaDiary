@@ -1,4 +1,4 @@
-/*
+
 package examples;
 import java.util.Scanner;
 public class PrimeNumber {
@@ -42,4 +42,4 @@ public class PrimeNumber {
 
 
 
- */
+ 
