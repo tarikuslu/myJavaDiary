@@ -1,4 +1,4 @@
-/*
+
 package examples;
 import java.util.Scanner;
 public class IsInputPrimeNumber {
@@ -36,4 +36,4 @@ public class IsInputPrimeNumber {
     }
 }
 
- */
+ 
