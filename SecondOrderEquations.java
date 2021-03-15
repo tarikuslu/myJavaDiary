@@ -1,7 +1,7 @@
 package examples;
 import java.util.Scanner;
 public class SecondOrderEquations {
-/*
+
     public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
         System.out.println("Denklemin  a değerini giriniz..");
@@ -34,6 +34,6 @@ public class SecondOrderEquations {
 
     }
 
-*/
+
 
 }
